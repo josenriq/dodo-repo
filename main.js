@@ -1,1 +1,1 @@
-alert('no wweeeyyy!');
+alert('bazzizzz aija ya weeeey!');
